@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://redelyug.github.io/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/app/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/assets/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/css/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/data/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/includes/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/item/sitemap.redelyug.gz
+Sitemap: https://redelyug.github.io/src/sitemap.redelyug.gz
